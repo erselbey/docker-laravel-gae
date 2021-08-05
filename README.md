@@ -1,19 +1,10 @@
 # Docker - Laravel
 
-![Docker](https://github.com/supermavster/docker-laravel-8/workflows/Docker/badge.svg)
-
-![Image](https://repository-images.githubusercontent.com/309769351/1c0dfc80-1def-11eb-9e5c-641da3e3c9b4)
-
-A pretty simplified Docker Compose workflow that sets up a LEMP (Linux, NGINX, MySQL, PHP) network of containers for local Laravel development.
-
 ## Ports
 
 Ports used in the project:
 | Software | Port |
 |-------------- | -------------- |
-| **nginx** | 8080 |
-| **phpmyadmin** | 8081 |
-| **mysql** | 3306 |
 | **php** | 9000 |
 | **xdebug** | 9001 |
 | **redis** | 6379 |
